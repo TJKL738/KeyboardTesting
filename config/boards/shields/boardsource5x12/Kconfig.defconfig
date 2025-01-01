@@ -6,8 +6,6 @@ if SHIELD_BOARDSOURCE5X12
 config ZMK_KEYBOARD_NAME
     default "KitsuneOrtho"
 
-config ZMK_DISPLAY
-    default y
 
 if ZMK_DISPLAY
 
